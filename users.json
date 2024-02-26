@@ -1,0 +1,254 @@
+[
+    {
+        "id": 12345,
+        "firstName": "John",
+        "lastName": "Doe",
+        "maidenName": "Smith",
+        "age": 30,
+        "gender": "male",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "username": "johndoe",
+        "password": "password123",
+        "birthDate": "1990-01-01",
+        "image": "https://example.com/avatar.jpg",
+        "bloodGroup": "A+",
+        "height": 180,
+        "weight": 75.4,
+        "eyeColor": "Brown",
+        "hair": "{ color: 'Black', type: 'Straight' }",
+        "domain": "example.com",
+        "ip": "192.168.1.1",
+        "address": {
+            "address": "123 Main St",
+            "city": "Anytown",
+            "coordinates": {
+                "lat": 40.7128,
+                "lng": -74.0060
+            },
+            "postalCode": "12345",
+            "state": "NY"
+        },
+        "macAddress": "12:34:56:78:90:AB",
+        "university": "Example University",
+        "bank": {
+            "cardExpire": "06/22",
+            "cardNumber": "1234567812345678",
+            "cardType": "visa",
+            "currency": "USD",
+            "iban": "US12345678901234567890"
+        },
+        "company": {
+            "address": {
+                "address": "456 Business Rd",
+                "city": "Businesstown",
+                "coordinates": {
+                    "lat": 37.7749,
+                    "lng": -122.4194
+                },
+                "postalCode": "54321",
+                "state": "CA"
+            },
+            "department": "Marketing",
+            "name": "Example Corp",
+            "title": "Marketing Manager"
+        },
+        "ein": "12-3456789",
+        "ssn": "123-45-6789",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36",
+        "crypto": {
+            "coin": "Bitcoin",
+            "wallet": "1AbCDeFgHiJkLmNoPqRsTuVwXyZ123456",
+            "network": "Bitcoin"
+        }
+    },
+    {
+        "id": 1,
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "maidenName": "Johnson",
+        "age": 28,
+        "gender": "female",
+        "email": "alice.smith@example.com",
+        "phone": "+1234567890",
+        "username": "alice123",
+        "password": "password123",
+        "birthDate": "1994-03-15",
+        "image": "https://example.com/avatar.jpg",
+        "bloodGroup": "AB+",
+        "height": 165,
+        "weight": 60.5,
+        "eyeColor": "Brown",
+        "hair": "{ color: 'Black', type: 'Straight' }",
+        "domain": "example.com",
+        "ip": "192.168.1.1",
+        "address": {
+            "address": "123 Main St",
+            "city": "Anytown",
+            "coordinates": {
+                "lat": 40.7128,
+                "lng": -74.0060
+            },
+            "postalCode": "12345",
+            "state": "NY"
+        },
+        "macAddress": "12:34:56:78:90:AB",
+        "university": "Example University",
+        "bank": {
+            "cardExpire": "06/22",
+            "cardNumber": "1234567812345678",
+            "cardType": "visa",
+            "currency": "USD",
+            "iban": "US12345678901234567890"
+        },
+        "company": {
+            "address": {
+                "address": "456 Business Rd",
+                "city": "Businesstown",
+                "coordinates": {
+                    "lat": 37.7749,
+                    "lng": -122.4194
+                },
+                "postalCode": "54321",
+                "state": "CA"
+            },
+            "department": "Marketing",
+            "name": "Example Corp",
+            "title": "Marketing Manager"
+        },
+        "ein": "12-3456789",
+        "ssn": "123-45-6789",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36",
+        "crypto": {
+            "coin": "Bitcoin",
+            "wallet": "1AbCDeFgHiJkLmNoPqRsTuVwXyZ123456",
+            "network": "Bitcoin"
+        }
+    },
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "maidenName": "Smith",
+        "age": 30,
+        "gender": "male",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "username": "johndoe",
+        "password": "password123",
+        "birthDate": "1990-01-01",
+        "image": "https://example.com/avatar.jpg",
+        "bloodGroup": "A+",
+        "height": 180,
+        "weight": 75.4,
+        "eyeColor": "Brown",
+        "hair": "{ color: 'Black', type: 'Straight' }",
+        "domain": "example.com",
+        "ip": "192.168.1.1",
+        "address": {
+            "address": "123 Main St",
+            "city": "Anytown",
+            "coordinates": {
+                "lat": 40.7128,
+                "lng": -74.006
+            },
+            "postalCode": "12345",
+            "state": "NY"
+        },
+        "macAddress": "12:34:56:78:90:AB",
+        "university": "Example University",
+        "bank": {
+            "cardExpire": "06/22",
+            "cardNumber": "1234567812345678",
+            "cardType": "visa",
+            "currency": "USD",
+            "iban": "US12345678901234567890"
+        },
+        "company": {
+            "address": {
+                "address": "456 Business Rd",
+                "city": "Businesstown",
+                "coordinates": {
+                    "lat": 37.7749,
+                    "lng": -122.4194
+                },
+                "postalCode": "54321",
+                "state": "CA"
+            },
+            "department": "Marketing",
+            "name": "Example Corp",
+            "title": "Marketing Manager"
+        },
+        "ein": "12-3456789",
+        "ssn": "123-45-6789",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36",
+        "crypto": {
+            "coin": "Bitcoin",
+            "wallet": "1AbCDeFgHiJkLmNoPqRsTuVwXyZ123456",
+            "network": "Bitcoin"
+        }
+    },
+    {
+        "id": 2,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "maidenName": "Johnson",
+        "age": 25,
+        "gender": "female",
+        "email": "jane.smith@example.com",
+        "phone": "+1987654321",
+        "username": "janesmith",
+        "password": "password456",
+        "birthDate": "1995-05-10",
+        "image": "https://example.com/avatar2.jpg",
+        "bloodGroup": "B+",
+        "height": 165,
+        "weight": 55.8,
+        "eyeColor": "Blue",
+        "hair": "{ color: 'Black', type: 'Straight' }",
+        "domain": "example.net",
+        "ip": "10.0.0.1",
+        "address": {
+            "address": "456 Elm St",
+            "city": "Smalltown",
+            "coordinates": {
+                "lat": 35.6895,
+                "lng": 139.6917
+            },
+            "postalCode": "54321",
+            "state": "CA"
+        },
+        "macAddress": "AB:CD:EF:12:34:56",
+        "university": "Another University",
+        "bank": {
+            "cardExpire": "09/23",
+            "cardNumber": "8765432187654321",
+            "cardType": "mastercard",
+            "currency": "EUR",
+            "iban": "EU8765432187654321"
+        },
+        "company": {
+            "address": {
+                "address": "789 Oak St",
+                "city": "Oakland",
+                "coordinates": {
+                    "lat": 37.8044,
+                    "lng": -122.2711
+                },
+                "postalCode": "98765",
+                "state": "CA"
+            },
+            "department": "Sales",
+            "name": "Another Company",
+            "title": "Sales Manager"
+        },
+        "ein": "98-7654321",
+        "ssn": "987-65-4321",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36",
+        "crypto": {
+            "coin": "Ethereum",
+            "wallet": "0xAbCdEf1234567890",
+            "network": "Ethereum"
+        }
+    }
+]
